@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=xenon007&project=ai-engineering-hub&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <p align="center">
   <a href="https://trendshift.io/repositories/12800">
     <img src="assets/TRENDING-BADGE.png" alt="Trending Badge" style="width: 250px; height: 55px;" width="250" height="55"/>
